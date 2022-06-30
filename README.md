@@ -1,4 +1,5 @@
 # 2-Periodo
+Este repositório contém todas as matérias que eu cursei no segundo período de Sistemas de Informação no IFES Campus Colatina
 
 MD -> Matemática Discreta (Bacharel em SIN - Col - 2011/1) - 60h 
 
